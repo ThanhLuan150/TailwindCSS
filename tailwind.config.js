@@ -16,7 +16,8 @@ module.exports = {
         "pricing": '0px 2px 8px rgba(0, 0, 0, 0.25)'
       },
       borderWidth: {
-        "3": "3px"
+        "3": "3px",
+      
       },
       maxWidth: {
           'xxs' : "240px"
@@ -30,6 +31,7 @@ module.exports = {
         "h6": ["16px", {lineHeight: 1.5}],
         "p-l": ["18px", {lineHeight: "28px"}],
         "p-m": ["16px", {lineHeight: "28px"}],
+        "h5":["14px",{lineHeight:"24"}]
       },
       backgroundPosition:{
         'center-top' : 'center top'
